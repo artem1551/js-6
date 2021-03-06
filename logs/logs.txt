@@ -1,9 +1,15 @@
-<li>Date now in milisec - 1614896704331 Server working time from start in ml - 25008</li>
-<li>Date now in milisec - 1614896770496 Server working time from start in ml - 5002</li>
-<li>Date now in milisec - 1614896770496 Server working time from start in ml - 10003</li>
-<li>GET /user/remove Fri Mar 05 2021 00:26:23 GMT+0200 (Восточная Европа, стандартное время)</li><li>Date now in milisec - 1614896770496 Server working time from start in ml - 15003</li>
-<li>Date now in milisec - 1614896770496 Server working time from start in ml - 20005</li>
-<li>Date now in milisec - 1614896770496 Server working time from start in ml - 25006</li>
-<li>Date now in milisec - 1614896770496 Server working time from start in ml - 30007</li>
-<li>Date now in milisec - 1614896770496 Server working time from start in ml - 35007</li>
-<li>Date now in milisec - 1614896770496 Server working time from start in ml - 40007</li>
+<li>Date now in milisec - 1615031505290 Server working time from start in ml - 5005</li>
+<li>Date now in milisec - 1615031505290 Server working time from start in ml - 10007</li>
+<li>Date now in milisec - 1615031505290 Server working time from start in ml - 15008</li>
+<li>DELETE /user/remove Sat Mar 06 2021 13:52:03 GMT+0200 (Восточная Европа, стандартное время)</li><li>Date now in milisec - 1615031505290 Server working time from start in ml - 20009</li>
+<li>DELETE /user/remove Sat Mar 06 2021 13:52:05 GMT+0200 (Восточная Европа, стандартное время)</li><li>DELETE /user/remove Sat Mar 06 2021 13:52:07 GMT+0200 (Восточная Европа, стандартное время)</li><li>DELETE /user/remove Sat Mar 06 2021 13:52:08 GMT+0200 (Восточная Европа, стандартное время)</li><li>Date now in milisec - 1615031505290 Server working time from start in ml - 25009</li>
+<li>Date now in milisec - 1615031505290 Server working time from start in ml - 30009</li>
+<li>GET /get/log Sat Mar 06 2021 13:52:20 GMT+0200 (Восточная Европа, стандартное время)</li><li>Date now in milisec - 1615031505290 Server working time from start in ml - 35009</li>
+<li>Date now in milisec - 1615031505290 Server working time from start in ml - 40011</li>
+<li>GET /get/log Sat Mar 06 2021 13:52:26 GMT+0200 (Восточная Европа, стандартное время)</li><li>Date now in milisec - 1615031505290 Server working time from start in ml - 45012</li>
+<li>Date now in milisec - 1615031505290 Server working time from start in ml - 50014</li>
+<li>Date now in milisec - 1615031505290 Server working time from start in ml - 55016</li>
+<li>GET /get/log Sat Mar 06 2021 13:52:44 GMT+0200 (Восточная Европа, стандартное время)</li><li>Date now in milisec - 1615031505290 Server working time from start in ml - 60017</li>
+<li>GET /favicon.ico Sat Mar 06 2021 13:52:45 GMT+0200 (Восточная Европа, стандартное время)</li><li>Date now in milisec - 1615031505290 Server working time from start in ml - 65016</li>
+<li>Date now in milisec - 1615031505290 Server working time from start in ml - 70017</li>
+<li>Date now in milisec - 1615031505290 Server working time from start in ml - 75017</li>

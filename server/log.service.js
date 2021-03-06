@@ -1,16 +1,6 @@
 const fs = require('fs');
 const LOG_SERVICE_PATH = './logs/logs.txt'
 
-function getLog() {
-
-    fs.readFile(LOG_SERVICE_PATH, 'utf8', (err, data) => {
-        
-
-    });
-
-
-};
-
 function logMiddleware(req, res, next) {
     console.log(req.method, req.originalUrl, new Date());
 

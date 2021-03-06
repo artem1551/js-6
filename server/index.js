@@ -25,7 +25,7 @@ app.get('/users/:usersName/', UsersService.getUsersByName);
 app.post('/users/add', UsersService.addUser);
 app.put('/users/update', UsersService.updateUserById);
 app.get('/get/log', logService.getLog)
-app.delete('/user/remove', UsersData.deleteUsersFile);
+app.delete('/user/remove', UsersService.deleteUserById);
 
 
 app.listen(port, () => {

@@ -1,4 +1,4 @@
-const  { getUsers: getUsersData, updateUsers } = require('./Users.data');
+const { getUsers: getUsersData, updateUsers, deleteUsers } = require('./Users.data');
 
 const getUsers = (req, res) => {
     const users = getUsersData();
@@ -53,13 +53,23 @@ const updateUserById = (req, res) => {
 
     users[id] = name;
 
-    updateUsers(users).then(() => {
+    updateUsers(users).then((res) => {
+
         res.send(users);
     }).catch((err) => {
         res.status(500).send(err);
     });
 };
 
+const deleteUserById = (req, res) => {
+    const { id } = req.body;
+
+    deleteUsers(id).then((newUsers) => {
+        res.send(newUsers);
+    }).catch((err) => {
+        res.status(500).send(err);
+    });
+};
 
 // setTimeout(() => {
 //     const users = getUsersData();
@@ -82,4 +92,5 @@ module.exports = {
     getUsersAll,
     addUser,
     updateUserById,
+    deleteUserById
 };
